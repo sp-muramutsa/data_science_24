@@ -1,0 +1,87 @@
+Profile Name,Country Iso Code,Device,Is Kids,Query Typed,Displayed Name,Action,Section,Utc Timestamp
+Sando,US,Smart TV,0,thi,,play,title_results,2024-06-29 00:54:00
+Sando,US,Smart TV,0,thi,,play,title_results,2024-06-28 22:11:53
+Sando,US,Smart TV,0,thi,,select,title_results,2024-06-28 22:11:15
+Sando,US,Smart TV,0,mo,Mother of the Bride,play,title_results,2024-05-11 14:17:52
+Sando,US,Smart TV,0,mo,Mother of the Bride,select,title_results,2024-05-11 14:17:48
+Sando,US,Smart TV,0,thi,,play,title_results,2024-05-08 00:58:37
+Sando,US,Smart TV,0,thi,,select,title_results,2024-05-08 00:58:14
+Sando,US,Smart TV,0,thi,,select,title_results,2024-05-08 00:55:37
+Sando,US,Smart TV,0,any,Anyone But You,play,title_results,2024-05-04 06:41:37
+Sando,US,Smart TV,0,any,Anyone But You,select,title_results,2024-05-04 06:41:34
+Sando,US,Smart TV,0,the black be,,play,title_results,2024-04-27 19:52:04
+Sando,US,Smart TV,0,the black be,,select,title_results,2024-04-27 19:51:51
+Sando,US,Smart TV,0,,,play,prequery_results,2024-04-19 02:29:55
+Sando,US,Smart TV,0,,,select,prequery_results,2024-04-19 02:29:50
+Sando,US,Smart TV,0,bloo,,play,title_results,2024-04-18 00:00:22
+Sando,US,Smart TV,0,bloo,,play,title_results,2024-04-17 23:59:30
+Sando,US,Smart TV,0,bloo,,select,title_results,2024-04-17 23:59:26
+Sando,US,Smart TV,0,the i,The Irishman,play,title_results,2024-04-06 01:41:10
+Sando,US,Smart TV,0,the i,The Irishman,select,title_results,2024-04-06 01:41:06
+Sando,US,Smart TV,0,y,,play,title_results,2024-04-05 02:41:40
+Sando,US,Smart TV,0,y,,select,title_results,2024-04-05 02:41:19
+Sando,US,Smart TV,0,this i,,play,title_results,2024-03-30 14:32:21
+Sando,US,Smart TV,0,this i,,select,title_results,2024-03-30 14:32:19
+Sando,US,Smart TV,0,comed,No Hard Feelings,play,title_results,2024-03-30 02:30:31
+Sando,US,Smart TV,0,comed,No Hard Feelings,select,title_results,2024-03-30 02:30:27
+Nziza,US,Smart TV,0,young,,play,title_results,2024-07-14 23:28:35
+Nziza,US,Smart TV,0,young,,select,title_results,2024-07-14 23:28:14
+Quin,RW,Smart TV,0,the r,,play,title_results,2024-08-11 16:52:10
+Quin,RW,Smart TV,0,the r,,play,title_results,2024-08-11 16:51:36
+Quin,RW,Smart TV,0,the r,,play,title_results,2024-08-11 16:51:31
+Quin,RW,Smart TV,0,the r,,select,title_results,2024-08-11 16:51:04
+Quin,US,Smart TV,0,lo,,play,title_results,2024-08-10 02:57:24
+Quin,US,Smart TV,0,lo,,select,title_results,2024-08-10 02:56:59
+Quin,US,Smart TV,0,lo,,play,title_results,2024-08-09 21:59:47
+Quin,US,Smart TV,0,lo,,select,title_results,2024-08-09 21:59:42
+Quin,US,Smart TV,0,madam ,Madame Web,play,title_results,2024-08-05 19:50:00
+Quin,US,Smart TV,0,madam ,Madame Web,select,title_results,2024-08-05 19:49:56
+Quin,US,Smart TV,0,,American Assassin,select,prequery_results,2024-05-25 20:11:43
+Quin,US,Smart TV,0,,Art of Love,play,prequery_results,2024-05-25 20:09:35
+Quin,US,Smart TV,0,,Art of Love,select,prequery_results,2024-05-25 20:09:32
+Quin,US,Smart TV,0,,Players,play,prequery_results,2024-05-25 20:00:51
+Quin,US,Smart TV,0,,Players,select,prequery_results,2024-05-25 20:00:48
+Quin,US,Smart TV,0,,In Good Hands 2,play,prequery_results,2024-05-25 20:00:30
+Quin,US,Smart TV,0,,In Good Hands 2,select,prequery_results,2024-05-25 20:00:26
+Quin,US,Smart TV,0,termin,,select,title_results,2024-05-12 18:04:46
+Quin,US,Smart TV,0,boll,Kabhi Khushi Kabhie Gham,select,title_results,2024-04-20 01:51:13
+Quin,US,Smart TV,0,boll,,select,title_results,2024-04-20 01:51:00
+Quin,US,Smart TV,0,,Scoop,play,prequery_results,2024-04-15 02:06:25
+Quin,US,Smart TV,0,,Scoop,select,prequery_results,2024-04-15 02:06:22
+Quin,US,Smart TV,0,,,select,prequery_results,2024-04-15 02:06:01
+Quin,US,Smart TV,0,,,play,prequery_results,2024-04-14 21:45:08
+Quin,US,Smart TV,0,,,select,prequery_results,2024-04-14 21:44:54
+Quin,US,Smart TV,0,s,,play,title_results,2024-04-09 01:26:23
+Quin,US,Smart TV,0,s,,select,title_results,2024-04-09 01:26:20
+Quin,US,Smart TV,0,k,,select,suggestion_results,2024-04-09 01:25:26
+Quin,US,Smart TV,0,k,,select,suggestion_results,2024-04-09 01:24:39
+Quin,US,Smart TV,0,k,,play,suggestion_results,2024-04-09 01:24:22
+Quin,US,Smart TV,0,k,,select,suggestion_results,2024-04-09 01:24:18
+Quin,US,Smart TV,0,k,,select,suggestion_results,2024-04-09 01:23:04
+Quin,US,Smart TV,0,k,,play,suggestion_results,2024-04-09 01:22:58
+Quin,US,Smart TV,0,k,,select,suggestion_results,2024-04-09 01:22:54
+Quin,US,Smart TV,0,k,,select,suggestion_results,2024-04-09 01:22:39
+Quin,US,Smart TV,0,k,,select,suggestion_results,2024-04-09 01:22:37
+Quin,US,Smart TV,0,k,,play,title_results,2024-04-09 01:21:58
+Quin,US,Smart TV,0,k,,select,title_results,2024-04-09 01:21:55
+Quin,US,Smart TV,0,the i,The Irishman,play,title_results,2024-04-04 02:10:46
+Quin,US,Smart TV,0,the i,The Irishman,select,title_results,2024-04-04 02:10:41
+Quin,US,Smart TV,0,the i,The Irishman,play,title_results,2024-04-03 18:35:49
+Quin,US,Smart TV,0,the i,The Irishman,select,title_results,2024-04-03 18:35:45
+Quin,US,Smart TV,0,eq,The Irishman,play,title_results,2024-04-01 23:40:30
+Quin,US,Smart TV,0,eq,The Irishman,select,title_results,2024-04-01 23:40:27
+Quin,US,Smart TV,0,eq,,play,title_results,2024-04-01 23:40:03
+Quin,US,Smart TV,0,eq,,select,title_results,2024-04-01 23:39:59
+Quin,US,Smart TV,0,eq,The Equalizer 3,play,title_results,2024-04-01 23:39:50
+Quin,US,Smart TV,0,eq,The Equalizer 3,select,title_results,2024-04-01 23:39:47
+Quin,US,Smart TV,0,man on fire,ReMastered: Who Shot the Sheriff,play,title_results,2024-04-01 23:37:57
+Quin,US,Smart TV,0,man on fire,ReMastered: Who Shot the Sheriff,select,title_results,2024-04-01 23:37:52
+Quin,US,Smart TV,0,mea,Mea Culpa,play,title_results,2024-04-01 23:20:59
+Quin,US,Smart TV,0,mea,Mea Culpa,select,title_results,2024-04-01 23:20:58
+Quin,US,Smart TV,0,gbl,,play,title_results,2024-03-24 13:52:52
+Quin,US,Smart TV,0,gbl,,play,title_results,2024-03-24 13:47:17
+Quin,US,Smart TV,0,gbl,,select,title_results,2024-03-24 13:47:14
+Quin,US,Smart TV,0,g,,play,title_results,2024-03-24 05:51:29
+Quin,US,Smart TV,0,g,,select,title_results,2024-03-24 05:51:25
+Quin,US,Smart TV,0,g,,play,title_results,2024-03-24 02:40:53
+Quin,US,Smart TV,0,g,,select,title_results,2024-03-24 02:40:50
