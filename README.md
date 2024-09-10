@@ -7,8 +7,8 @@ In this project, I analyze Netflix data collected from my family's account. The 
 ## Project Structure
 
 - **Data**
-  - `SearchHistory.csv`: Raw data file containing Netflix search history with columns such as `Profile Name`, `Start Time`, `Duration`, `Attributes`, `Title`, `Supplemental Video Type`, `Device Type`, `Bookmark`, `Latest Bookmark`, and `Country`.
-  - `ViewingActivity.csv`: Raw data file containing additional viewing activity data.
+  - `ViewingActivity.csv`: Raw data file containing viewing activity data with columns such as `Profile Name`, `Start Time`, `Duration`, `Attributes`, `Title`, `Supplemental Video Type`, `Device Type`, `Bookmark`, `Latest Bookmark`, and `Country`.
+  - `SearchHistory.csv`: Raw data file containing Netflix search history.
 
 - **Analysis**
   - **Profile Distribution**: Pie chart visualizing the distribution of viewing time across different profiles.
@@ -24,7 +24,7 @@ In this project, I analyze Netflix data collected from my family's account. The 
 
 1. **Load Data**
 
-   Load the data from `SearchHistory.csv` and `ViewingActivity.csv`, and explore their structure.
+   Load the data from `ViewingActivity.csv` and `SearchHistory.csv`, and explore their structure.
 
 2. **Profile Distribution**
 
@@ -66,6 +66,3 @@ The analysis and visualizations are detailed in `netflix.ipynb`.
 
 Feel free to open issues or submit pull requests if you have suggestions or improvements!
 
-## Acknowledgments
-
-Thanks to Python Data Science December for inspiring the project.
