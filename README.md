@@ -1,68 +1,58 @@
-# Netflix Data Analysis
+# Netflix Viewing and Search Data Visualization
 
 ## Overview
 
-In this project, I analyze Netflix data collected from my family's account. The goal is to clean the data and visualize various aspects of our viewing habits using Python's Pandas and Matplotlib libraries. This project is part of my ongoing learning journey in Data Science and serves as a "real world" application of my skills.
+This project involves analyzing and visualizing Netflix viewing and search history data. The goal is to provide insights into user activity and search patterns through interactive visualizations. The data is processed and displayed using Python and various visualization libraries.
+
+## Features
+
+- **Viewing Activity Analysis**: Visualize viewing activity over time, including total viewing hours and activity patterns. This helps in understanding user engagement and viewing trends.
+
+- **Search History Analysis**: Examine search patterns and frequencies. This feature provides insights into what users are searching for and how search behavior changes over time.
+
+- **Interactive Visualizations**: Use interactive charts to explore and compare different aspects of viewing and search history data. Users can interact with the charts to drill down into specific time periods or categories.
 
 ## Project Structure
 
-- **Data**
-  - `ViewingActivity.csv`: Raw data file containing viewing activity data with columns such as `Profile Name`, `Start Time`, `Duration`, `Attributes`, `Title`, `Supplemental Video Type`, `Device Type`, `Bookmark`, `Latest Bookmark`, and `Country`.
-  - `SearchHistory.csv`: Raw data file containing Netflix search history.
+- **data/**
+  - `SearchHistory.csv`: Raw data containing information about search queries made by users.
+  - `ViewingActivity.csv`: Raw data containing information about user viewing activity.
 
-- **Analysis**
-  - **Profile Distribution**: Pie chart visualizing the distribution of viewing time across different profiles.
-  - **Total Watch Time**: Bar chart showing the total watch time per profile.
-  - **Average Binge Length**: Bar chart depicting the average length of binge-watching sessions per profile.
-  - **Device Usage**: Bar chart displaying the distribution of device types used for watching content.
-  - **Country Distribution**: Bar chart illustrating the distribution of viewing by country.
-  - **Title Word Cloud**: Word cloud visualization of frequently watched titles.
-  - **Weekly Profile Occurrences**: Line chart showing profile activity over weeks.
-  - **Displayed Name Word Cloud**: Word cloud for the names of displayed content.
+- **notebooks/**
+  - `netflix.ipynb`: Jupyter notebook that includes:
+    - Loading and preprocessing data from `SearchHistory.csv` and `ViewingActivity.csv`.
+    - Creating visualizations such as time series plots and bar charts to analyze viewing and search patterns.
+    - Generating insights and trends based on the processed data.
 
-## Steps
+## Requirements
 
-1. **Load Data**
+- Python 3.x
+- pandas
+- matplotlib
+- seaborn
+- plotly
 
-   Load the data from `ViewingActivity.csv` and `SearchHistory.csv`, and explore their structure.
+## Installation and Setup
 
-2. **Profile Distribution**
+1. **Clone the Repository**:
+   Clone the repository to your local machine:
 
-   Create a pie chart to visualize how viewing time is distributed among different profiles.
+   ```bash
+   git clone https://github.com/sp-muramutsa/netflix.git
+   cd netflix
+   ```
 
-3. **Total Watch Time**
+3. **Install Dependencies**:
+   Install the required Python libraries using pip:
 
-   Aggregate total watch time per profile and plot it as a bar chart.
+   pip install pandas matplotlib seaborn plotly
 
-4. **Average Binge Length**
+4. **Prepare Data**:
+   Ensure that `SearchHistory.csv` and `ViewingActivity.csv` are present in the `data/` directory.
 
-   Calculate the average binge length per profile and visualize it using a bar chart.
+5. **Run Analysis**:
+   Open the `netflix.ipynb` notebook in Jupyter or any compatible environment and execute the cells to perform data analysis and generate visualizations.
 
-5. **Device Usage**
+## Example
 
-   Analyze the distribution of device types used and plot a bar chart.
-
-6. **Country Distribution**
-
-   Visualize the distribution of viewing by country using a bar chart.
-
-7. **Title Word Cloud**
-
-   Generate a word cloud from the titles of watched content, excluding common stopwords.
-
-8. **Weekly Profile Occurrences**
-
-   Analyze profile activity over weeks and plot it on a line chart.
-
-9. **Displayed Name Word Cloud**
-
-   Create a word cloud for displayed content names.
-
-## Visualization Examples
-
-The analysis and visualizations are detailed in `netflix.ipynb`. 
-
-## Contributing
-
-Feel free to open issues or submit pull requests if you have suggestions or improvements!
-
+A sample of the analysis and visualizations can be found in `netflix.ipynb`.
